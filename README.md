@@ -36,7 +36,7 @@ git clone https://github.com/eliasmcastro/rocketseat-ignite-nodejs-fundamentos.g
 
 - [Insomnia](https://insomnia.rest)
 
-#### Passos para a execução
+### Passos para a execução
 
 **1. Executar aplicação**
 
